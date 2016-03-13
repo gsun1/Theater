@@ -2,6 +2,7 @@
 A linear model of agents who derive (positive or negative) utility from their two nearest neighbors
 
 Files:
+
 Agent.cs: Defines class agent with relevant functions
 Game.cs: Defines game class
 Parser.cs: Defines parser for getting information out of parser file
